@@ -10,4 +10,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://abdulmalek-bouaja-dfnudoe1q-albuawja1.vercel.app/sitemap.xml
+Sitemap: https://abdulmalek-bouaja-libya.vercel.app/sitemap.xml
